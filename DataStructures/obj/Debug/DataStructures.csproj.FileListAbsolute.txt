@@ -1,0 +1,6 @@
+C:\Users\student07\Desktop\DataStructures\DataStructures\bin\Debug\DataStructures.dll
+C:\Users\student07\Desktop\DataStructures\DataStructures\bin\Debug\DataStructures.pdb
+C:\Users\student07\Desktop\DataStructures\DataStructures\obj\Debug\DataStructures.csprojAssemblyReference.cache
+C:\Users\student07\Desktop\DataStructures\DataStructures\obj\Debug\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\student07\Desktop\DataStructures\DataStructures\obj\Debug\DataStructures.dll
+C:\Users\student07\Desktop\DataStructures\DataStructures\obj\Debug\DataStructures.pdb

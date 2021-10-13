@@ -1,0 +1,10 @@
+C:\Users\student07\Desktop\DataStructures\DataStructuresTestbed\bin\Debug\DataStructuresTestbed.exe.config
+C:\Users\student07\Desktop\DataStructures\DataStructuresTestbed\bin\Debug\DataStructuresTestbed.exe
+C:\Users\student07\Desktop\DataStructures\DataStructuresTestbed\bin\Debug\DataStructuresTestbed.pdb
+C:\Users\student07\Desktop\DataStructures\DataStructuresTestbed\bin\Debug\DataStructures.dll
+C:\Users\student07\Desktop\DataStructures\DataStructuresTestbed\bin\Debug\DataStructures.pdb
+C:\Users\student07\Desktop\DataStructures\DataStructuresTestbed\obj\Debug\DataStructuresTestbed.csprojAssemblyReference.cache
+C:\Users\student07\Desktop\DataStructures\DataStructuresTestbed\obj\Debug\DataStructuresTestbed.csproj.CoreCompileInputs.cache
+C:\Users\student07\Desktop\DataStructures\DataStructuresTestbed\obj\Debug\DataStructuresTestbed.csproj.CopyComplete
+C:\Users\student07\Desktop\DataStructures\DataStructuresTestbed\obj\Debug\DataStructuresTestbed.exe
+C:\Users\student07\Desktop\DataStructures\DataStructuresTestbed\obj\Debug\DataStructuresTestbed.pdb
